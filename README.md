@@ -1,2 +1,2 @@
-# docker-wordpress
-Wordpress
+# Wordpress
+Wordpress with additional php extensions
